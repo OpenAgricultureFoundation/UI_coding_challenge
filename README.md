@@ -6,9 +6,9 @@ We are looking for a UI developer to join our team in [Middleton, MA](https://ww
 You will have to be onsite (not remote) and we can't sponsor visas.
 
 ## The coding challenge:
-Modify the skeleton React & bootstrap project to display the data from a group of our Food Computers.  Use your visual design skills to make it attractive.  It can be a one page or multipage app, your choice.  Add whatever you want to the project, change the style, add something to hold the data.
-
-When you are happy with your work, please just submit a PR to the repo and tag @srmoore @Poitrast.
+1. Make a branch of this project.
+1. Modify the skeleton React & bootstrap project to display the data from a group of our Food Computers.  Use your visual design skills to make it attractive.  It can be a one page or multipage app, your choice.  Add whatever you want to the project, change the style, add something to hold the data.
+1. When you are happy with your work, please  submit a PR and tag @srmoore @Poitrast.
 
 In the data directory of this project, you will find some CSV files:
   * `devices.csv` is the list of devices.
