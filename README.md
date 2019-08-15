@@ -17,10 +17,10 @@ In the data directory of this project, you will find some CSV files:
 
 
 ### About the position:
-The primary responsibilities include designing, prototyping, documenting and implementing features on the OpenAg UI software stack. React software development experience and the ability to quickly learn new technologies is the most important requirement. The work spans the world of software, from mobile and web UI to embedded device programming, communications, data storage, security and
+The primary responsibilities include designing, prototyping, documenting and implementing features on the OpenAg UI software stack. React software development experience and the ability to quickly learn new technologies is the most important requirement. The work spans the world of software, from mobile and web UI to embedded device programming, communications, data storage and security.
 
 #### Requirements:
-  * Bachelor’s in computer science or similar technical field.
+  * Bachelor’s degree in computer science or similar technical field.
   * At least three years professional programming experience.
   * Solid understanding of software development best practices: modular/OO design, design patterns, communications, REST APIs, testing and documentation.
   * Deep knowledge of React / Flask, HTML, CSS, bootstrap.
