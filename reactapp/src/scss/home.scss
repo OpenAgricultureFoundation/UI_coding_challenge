@@ -1,0 +1,42 @@
+.home-container {
+  display: grid;
+  grid-template-areas: "status";
+  grid-gap: 10px;
+  grid-column-gap: 50px;
+  grid-template-columns: 5fr 2.5fr;
+}
+
+.home-container {
+
+  .status {
+    grid-area: status;
+  }
+
+  .btn-secondary {
+    background-color: rgb(149, 38, 106);
+    border-color: rgb(149, 38, 106);
+    width: 100%;
+  }
+  .btn-secondary:hover {
+    background-color: #358A49;
+    border-color: #358A49;
+  }
+
+  .bottom-row {
+    margin-top: 5px;
+  }
+  .dropdown-toggle.btn.btn-secondary
+  {
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  .padding-0 {
+    padding-left: 0;
+  }
+  .btn-group {
+    width: 92%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

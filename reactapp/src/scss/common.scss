@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:400,300,700,500,100);
+
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+
+// Match the container for the contents of the page,
+// which comes right after the header
+.header + div {
+  position: relative;
+  top: 100px;
+  padding: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.load-1
+{
+  height:100px;
+  width:150px;
+  padding:10px;
+}
+.load-1-active
+{
+  height:100px;
+  width:150px;
+  background-color:rgba(1,1,1,0.1);
+}
+.btn {
+  &-loading {
+    pointer-events: auto;
+    &:after {
+      //animation: btn-loading 1s linear infinite;
+      background: repeating-linear-gradient(
+                      -60deg,
+                      rgba(white, .15),
+                      rgba(white, .15) 1em,
+                      rgba(black, .15) 1em,
+                      rgba(black, .15) 2em /* determines size */
+      );
+      background-size: 200%;
+      content: "";
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+
+      @keyframes btn-loading {
+        from {
+          background-position: -4em 0;
+        }
+        to {
+          background-position: -1.7em 0;
+        }
+      }
+    }
+  }
+}
+
