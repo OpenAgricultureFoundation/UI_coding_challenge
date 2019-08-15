@@ -1,12 +1,7 @@
 # Required software packages to run this app
 
-## Install brew (the package manager for OSX)
-- https://brew.sh/
-
 ## Install nvm (node version manager)
-```bash
-brew install nvm
-```
+- https://github.com/nvm-sh/nvm
 
 ## Install the latest long term support version and npm (node package manager)
 ```bash
