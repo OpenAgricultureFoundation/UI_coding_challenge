@@ -24,7 +24,7 @@ The primary responsibilities include designing, prototyping, documenting and imp
   * At least three years professional programming experience.
   * Solid understanding of software development best practices: modular/OO design, design patterns, communications, REST APIs, testing and documentation.
   * Deep knowledge of React / Flask, HTML, CSS, bootstrap.
-  * Bonus points for knowledge of python3, OpenIDconnect / OAuth and a cloud platform.
+  * Bonus points for knowledge of python3, OpenID Connect / OAuth and a cloud platform.
   * Effective communication and documentation skills.
 
 ### About us:
